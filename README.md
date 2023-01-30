@@ -1,4 +1,4 @@
-<h1 align="center"> Modelagem de 🎲s para Sistema de Acompanhamento Reília </h1>
+<h1 align="center"> Modelagem de 🎲s para Sistema de Acompanhamento Resilia </h1>
 
 ![Screenshot](https://github.com/NHCardoso/Modelagem-de-dados-Resilia---M-dulo-4/blob/main/Modelagem%20Resilia.png?raw=true)
 
