@@ -9,6 +9,7 @@ Projeto individual do Módulo 4 do curso de Devolvedor Web FullStack do projeto 
 A proposta desse projeto é modedelar um banco de dados para ser implementado ao novo sistema de acompanhamento da empresa Resília e responder as seguintes queguntas:
 
 ### ⇨ Existem outras entidades além dessas três?
+ <strong>facilitador_softskill, facilitador_hardskill</strong> e <strong>monitor</strong>
 
 ### ⇨ Quais são os principais campos e tipos?
 
