@@ -2,7 +2,7 @@
 
 ![Screenshot](https://github.com/NHCardoso/Modelagem-de-dados-Resilia---M-dulo-4/blob/main/Modelagem%20Resilia.png?raw=true)
 
-Projeto individual do Módulo 4 do curso de Desenvolvedor Web FullStack do projeto Programadores Carioca - SENAC RJ/Resilia.
+Projeto individual do Módulo 4 do curso de Desenvolvedor Web FullStack do Projeto Programadores Carioca - SENAC RJ/Resilia.
 
 ### 👩‍💻Descrição
 
