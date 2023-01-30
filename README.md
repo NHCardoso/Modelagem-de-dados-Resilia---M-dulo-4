@@ -1,4 +1,4 @@
-<h1 align="center"> Modelagem de 🎲s para Sistema de Acompanhamento Resilia </h1>
+<h1 align="center"> Modelagem de 🎲s para Sistema de Acompanhamento Reília </h1>
 
 ![Screenshot](https://github.com/NHCardoso/Modelagem-de-dados-Resilia---M-dulo-4/blob/main/Modelagem%20Resilia.png?raw=true)
 
@@ -6,12 +6,13 @@ Projeto individual do Módulo 4 do curso de Devolvedor Web FullStack do projeto 
 
 ### 👩‍💻descriçao
 
-A proposta desse projeto é modedelar um banco de dados para ser implementado ao novo sistema de acompanhamento da empresa Resília e responder as seguintes queguntas:
+A proposta desse projeto é modedelar um 🪑🎲(banco de dados) para ser implementado ao novo sistema de acompanhamento da empresa Resília e responder as seguintes queguntas:
 
 ### ⇨ Existem outras entidades além dessas três?
- <strong>facilitador_softskill, facilitador_hardskill</strong> e <strong>monitor</strong>
+Sim, foi preciso criar mais quatro entidades além das Três pré definidas(cursos, turmas e alunos):
 
-### ⇨ Quais são os principais campos e tipos?
-
-### ⇨ Como essas entidades estão relacionadas?
+ <strong>1.FACILITADOR HARDSKILLS</strong> 
+ <strong>2.FACILITADOR SOFTSKILLS</strong>
+ <strong>3.MONITOR</strong>
+ <strong>4.MATRICULA</strong>
 
