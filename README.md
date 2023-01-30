@@ -4,7 +4,7 @@
 
 Projeto individual do Módulo 4 do curso de Desenvolvedor Web FullStack do projeto Programadores Carioca - SENAC RJ/Resilia.
 
-### 👩‍💻descriçao
+### 👩‍💻Descrição
 
 A proposta desse projeto é modelar um 🪑🎲(banco de dados) para ser implementado ao novo sistema de acompanhamento da empresa Resília e responder as seguintes perguntas:
 
