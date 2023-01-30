@@ -11,8 +11,12 @@ A proposta desse projeto é modedelar um 🪑🎲(banco de dados) para ser imple
 ### ⇨ Existem outras entidades além dessas três?
 Sim, foi preciso criar mais quatro entidades além das Três pré definidas(cursos, turmas e alunos):
 
- <strong>1.FACILITADOR HARDSKILLS</strong> 
- <strong>2.FACILITADOR SOFTSKILLS</strong>
- <strong>3.MONITOR</strong>
- <strong>4.MATRICULA</strong>
+ 1.FACILITADOR HARDSKILLS
+ 2.FACILITADOR SOFTSKILLS
+ 3.MONITOR
+ 4.MATRICULA
+
+### ⇨ Quais são os principais campos e tipos?
+
+### ⇨ Como essas entidades estão relacionadas?
 
