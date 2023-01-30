@@ -14,10 +14,10 @@ Sim, foi preciso criar mais quatro entidades além das Três pré definidas(curs
  <strong>FACILITADOR HARDSKILLS</strong>, <strong>FACILITADOR SOFTSKILLS</strong>, <strong>MONITOR</strong> e <strong>MATRICULA</strong>
 
 ### ⇨ Quais são os principais campos e tipos?
-ID que s
+Os principais campos são os ID de cada entidade, que são encontrados como PK(chaves primárias) no tipo INT.
 ### ⇨ Como essas entidades estão relacionadas?
 
-<p> FACILITADOR HARDSKILLS <strong>1:n</strong> TURMAS</p>
+<p> FACILITADOR HARDSKILLS <strong> 1:n </strong> TURMAS</p>
 <p> FACILITADOR SOFTSKILLS <strong>1:n</strong> TURMAS</p>
 <p> MONITOR <strong>1:n</strong> TURMAS</p>
 <p> TURMAS <strong>1:n</strong>ALUNOS</p>
