@@ -17,11 +17,11 @@ Sim, foi preciso criar mais quatro entidades além das Três pré definidas(curs
 ID que s
 ### ⇨ Como essas entidades estão relacionadas?
 
-<p> FACILITADOR HARDSKILLS <strong>1:N</strong> TURMAS</p>
-<p> FACILITADOR SOFTSKILLS <strong>1:N</strong> TURMAS</p>
-<p> MONITOR <strong>1:N</strong> TURMAS</p>
-<p> TURMAS <strong>1:N</strong>ALUNOS</p>
-<p> CURSOS <strong>1:N</strong> TURMAS</p>
-<p> MATRICULA <strong>:</strong> TURMAS</p>
+<p> FACILITADOR HARDSKILLS <strong>1:n</strong> TURMAS</p>
+<p> FACILITADOR SOFTSKILLS <strong>1:n</strong> TURMAS</p>
+<p> MONITOR <strong>1:n</strong> TURMAS</p>
+<p> TURMAS <strong>1:n</strong>ALUNOS</p>
+<p> CURSOS <strong>1:n</strong> TURMAS</p>
+<p> TURMAS <strong>1:n</strong>MATRICULA </p>
 <p> ALUNOS <strong>1:1</strong> MATRICULA</p>
 <p> CURSOS <strong>1:1</strong> MATRICULA</p>
